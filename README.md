@@ -1,5 +1,7 @@
 # StoneDigger
 
+* **Domain:** Game Development / Object-Oriented Programming
+* **Description:** A 2D arcade puzzle game heavily inspired by the classic Atari hit "Boulder Dash". Built using Java and the libGDX framework, this project demonstrates core game loop mechanics, 2D rendering, collision detection, and solid object-oriented design principles.
 A [libGDX](https://libgdx.com/) project generated with [gdx-liftoff](https://github.com/libgdx/gdx-liftoff).
 
 This project was generated with a template including simple application launchers and a main class extending `Game` that sets the first screen.
